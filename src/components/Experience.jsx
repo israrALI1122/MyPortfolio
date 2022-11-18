@@ -43,7 +43,7 @@ const Experience = () => {
             id:6,
             src: node, 
             title: "Node",
-            style: "shadow-white",
+            style: "shadow-green-700"	,
         },
         {
             id:7,
