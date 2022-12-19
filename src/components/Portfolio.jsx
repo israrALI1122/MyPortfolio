@@ -2,9 +2,9 @@ import React from 'react'
 import socialApp from '../assets/portfolio/socialApp.png'
 import chat from '../assets/portfolio/chat.png'
 import navbar from '../assets/portfolio/navbar.jpg'
-// import reactParallax from '../assets/portfolio/reactParallax.jpg'
-import reactSmooth from '../assets/portfolio/reactSmooth.jpg'
+import ecom from '../assets/portfolio/ecom.png'
 import reactWeather from '../assets/portfolio/reactWeather.jpg'
+import foodorder from '../assets/foodorder.png'
 
 
 const Portfolio = () => {
@@ -28,13 +28,18 @@ const Portfolio = () => {
     },
     {
       id: 4,
-      src: reactSmooth,
+      src: foodorder,
 
     },
 
     {
       id: 6,
       src: reactWeather,
+
+    },
+    {
+      id: 7,
+      src: ecom,
 
     },
   ]

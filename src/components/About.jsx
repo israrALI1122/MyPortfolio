@@ -8,11 +8,9 @@ const About = () => {
                 <p className='text-4xl font-signature font-bold inline border-b-4 border-gray-500y'>About</p>
 
             </div>
-            <p className='text-xl mt-20'>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Iure dignissimos voluptatibus possimus quia quisquam quaerat, numquam reiciendis iusto quidem soluta deserunt similique consequuntur est unde commodi optio beatae voluptate voluptates sapiente blanditiis aperiam placeat eaque fugit. Officia hic at voluptatem vero atque enim cum deserunt, quas debitis porro eum excepturi.</p>
+            <p className='text-xl mt-20'>I am passionate about Full Stack Development with MERN Stack in particular. I am a detail-oriented and dedicated fellow whom you can trust with the successful completion of tasks. Utilizing my abilities to the fullest, I am ready to provide value to the organization I will be working with in the near future. Also, I love to code and strive to add business-oriented features and solve problems with a business-oriented mindset in my applications.</p>
             <br/>
-            <p className='text-xl'>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit, vitae aspernatur veniam delectus iusto excepturi consectetur harum perferendis quae, sint fuga voluptas provident commodi ut accusamus illo neque autem tempora beatae? Quam minima aspernatur repudiandae quae, cum beatae praesentium iure vero dolorem suscipit corporis asperiores? Corporis, saepe! Quam, eos expedita.
-            </p>
+           
         </div>
     </div>
   )
